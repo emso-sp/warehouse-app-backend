@@ -1,7 +1,7 @@
-package com.example.warehouse_app_backend.controller;
+package com.example.warehouse_app_backend.product.controller;
 
-import com.example.warehouse_app_backend.model.ProductDTO;
-import com.example.warehouse_app_backend.service.ProductService;
+import com.example.warehouse_app_backend.product.model.ProductDTO;
+import com.example.warehouse_app_backend.product.service.ProductService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

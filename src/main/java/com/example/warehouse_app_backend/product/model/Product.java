@@ -1,4 +1,4 @@
-package com.example.warehouse_app_backend.model;
+package com.example.warehouse_app_backend.product.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

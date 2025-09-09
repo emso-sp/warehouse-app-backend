@@ -1,8 +1,8 @@
-package com.example.warehouse_app_backend.repository;
+package com.example.warehouse_app_backend.product.repository;
 
 // JpaRepository: provides all the necessary CRUD methods like save(), findAll(), findById() and deleteById()
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.example.warehouse_app_backend.model.Product;
+import com.example.warehouse_app_backend.product.model.Product;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
 }

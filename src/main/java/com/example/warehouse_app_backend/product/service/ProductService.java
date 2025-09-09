@@ -1,8 +1,8 @@
-package com.example.warehouse_app_backend.service;
+package com.example.warehouse_app_backend.product.service;
 // Service Layer implements business logic and data transformations
 // acts as a mediator between the web interface and data resources
 
-import com.example.warehouse_app_backend.model.ProductDTO;
+import com.example.warehouse_app_backend.product.model.ProductDTO;
 
 import java.util.List;
 import java.util.Optional;

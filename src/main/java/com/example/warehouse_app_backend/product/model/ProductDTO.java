@@ -1,4 +1,4 @@
-package com.example.warehouse_app_backend.model;
+package com.example.warehouse_app_backend.product.model;
 
 // Java record: A Java feature that automatically generates constructors, getters, toString(), equals() and hashCode()
     // makes it ideal for use as a DTO to transfer data between the server and client

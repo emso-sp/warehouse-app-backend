@@ -1,8 +1,8 @@
-package com.example.warehouse_app_backend.service;
+package com.example.warehouse_app_backend.product.service;
 
-import com.example.warehouse_app_backend.model.Product;
-import com.example.warehouse_app_backend.model.ProductDTO;
-import com.example.warehouse_app_backend.repository.ProductRepository;
+import com.example.warehouse_app_backend.product.model.Product;
+import com.example.warehouse_app_backend.product.model.ProductDTO;
+import com.example.warehouse_app_backend.product.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
